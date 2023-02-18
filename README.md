@@ -10,7 +10,6 @@ https://qr-code-fm-yadav.netlify.app
 
 ### Built with
 - React
-- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
