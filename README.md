@@ -3,7 +3,7 @@
 ## Overview
 
 ### Screenshot
-![](qr-code-fm/public/screenshot.png)
+![](public/screenshot.png)
 
 ### Link
 https://qr-code-fm-yadav.netlify.app
